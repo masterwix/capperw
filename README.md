@@ -1,6 +1,11 @@
+
+
 # capperw
 automated tool for crunch + aircrack to crack cap file (handshake)
+
 Script Description - CapperW v2.2: WiFi Password Cracking Tool
+
+https://github.com/masterwix/capperw/assets/5401263/8bbc3791-8e72-4155-af08-ba097d1f50f6
 
 This script is designed for attempting to crack WiFi passwords using captured handshake files in the '.cap' format. Here's a breakdown of its key features:
 
@@ -11,6 +16,9 @@ Prepare Capture Files: Place your '.cap' files in the "caps" folder.
 Running the Script: Execute the script. Crunch will generate password combinations directly passed to Aircrack-ng for processing.
 
 Main Features:
+
+
+
 
 BSSID Extraction from Captures: The script automatically extracts the BSSID (Basic Service Set Identifier) from the capture files, simplifying the setup.
 
