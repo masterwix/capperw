@@ -1,0 +1,10 @@
+# Bibliotecas de Python
+scapy==2.4.5
+tabulate==0.8.9
+colorama==0.4.4
+
+# Herramientas de hacking
+aircrack-ng==1.6
+crunch==3.6
+
+# Otras dependencias (si las necesitas)
