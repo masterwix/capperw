@@ -20,7 +20,7 @@ Main Features:
 
 
 
-BSSID Extraction from Captures: The script automatically extracts the BSSID (Basic Service Set Identifier) from the capture files, simplifying the setup.
+BSSID Extraction from Captures: The script automatically extracts the BSSID  from the capture files.
 
 Flexible Password Generation: It offers flexibility in creating various types of passwords using Crunch, allowing you to customize the length and character sets for the brute-force attack.
 
